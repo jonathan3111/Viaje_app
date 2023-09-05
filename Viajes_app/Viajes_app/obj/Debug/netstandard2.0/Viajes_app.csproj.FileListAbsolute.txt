@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\bin\Debug\netstandard2.0\Viajes_app.deps.json
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\bin\Debug\netstandard2.0\Viajes_app.dll
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\bin\Debug\netstandard2.0\ref\Viajes_app.dll
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\bin\Debug\netstandard2.0\Viajes_app.pdb
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\Viajes_app.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\Viajes_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\Views\cara.xaml.g.cs
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\Viajes_app.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\Viajes_app.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\Viajes_app.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\Viajes_app.dll
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\refint\Viajes_app.dll
+C:\Users\usuario\source\repos\Viajes_app\Viajes_app\Viajes_app\obj\Debug\netstandard2.0\Viajes_app.pdb

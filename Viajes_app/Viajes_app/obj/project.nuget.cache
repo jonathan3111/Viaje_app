@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bV/LXGhF13J+SzNMIJvD2BnyygW53gZjoTSm6xK6o5bA1ymsndUz8hqv5m7mlpnK/hl9MZ4g2ZuhPyfS+Iqprw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\source\\repos\\Viajes_app\\Viajes_app\\Viajes_app\\Viajes_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
